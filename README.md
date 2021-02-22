@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![asd](https://komarev.com/ghpvc/?username=saicem)
+
+![Saicem's GitHub stats](https://github-readme-stats.vercel.app/api?username=saicem&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&exclude_repo=saicem.github.io&langs_count=8)
