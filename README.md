@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Saicem's GitHub stats](https://github-readme-stats.vercel.app/api?username=saicem&show_icons=true&include_all_commits=true)
-
-![Saicem's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=saicem&hide=cmake,Makefile,shell)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saicem&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saicem&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saicem&theme=default)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saicem&theme=default) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saicem&theme=default) -->
+<!-- ![Saicem's GitHub stats](https://github-readme-stats.vercel.app/api?username=saicem&show_icons=true&include_all_commits=true) -->
+![Saicem's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=saicem&hide=cmake,Makefile,shell&layout=compact)
