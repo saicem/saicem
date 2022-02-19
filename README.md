@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm [Saicem](https://saicem.github.io)
 
 <!-- view count https://github.com/antonkomarev/github-profile-views-counter -->
-![view count](https://hit.yhype.me/github/profile?user_id=56228142)
+![](https://hit.yhype.me/github/profile?user_id=56228142)
 
 <!--
 **saicem/saicem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
