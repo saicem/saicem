@@ -1,13 +1,13 @@
-### Hi there 👋 I'm [Saicem](https://saicem.github.io)
+# Hi there 👋 I'm [Saicem](https://saicem.github.io).
 
 <!-- view count https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://hit.yhype.me/github/profile?user_id=56228142)
 
+- 🔭 A Junior at Wuhan University of Technology.
+- 🥲 I'm trying hard to find a job... 
+- 📖 I'm currently reading ***Modern operating system*** and ***Computer Networking: A Top-Down Approach***. As a non computer science student I find it necessary to learn about these.
+
 <!--
-**saicem/saicem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
