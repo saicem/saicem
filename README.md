@@ -1,7 +1,6 @@
 # Hi there 👋 I'm [Saicem](https://saicem.github.io).
 
 Want to be a full stack developer.Mainly use C# for back-end program development.
-
 <!-- view count https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://hit.yhype.me/github/profile?user_id=56228142)
 
