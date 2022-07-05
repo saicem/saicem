@@ -4,9 +4,11 @@ Want to be a full stack developer.Mainly use C# for back-end program development
 <!-- view count https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://hit.yhype.me/github/profile?user_id=56228142)
 
-- 🔭 A Junior at Wuhan University of Technology.
+- 🔭 A Senior at Wuhan University of Technology.
+<!--
 - 🥲 I'm trying hard to find a job... 
 - 📖 I'm currently reading ***Modern operating system*** and ***Computer Networking: A Top-Down Approach***. As a non computer science student I find it necessary to learn about these.
+-->
 - 📫 How to reach me: saicem@qq.com
 
 <!--
