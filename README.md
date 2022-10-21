@@ -5,10 +5,7 @@ Want to be a full stack developer.Mainly use C# for back-end program development
 ![](https://hit.yhype.me/github/profile?user_id=56228142)
 
 - 🔭 A Senior at Wuhan University of Technology.
-<!--
-- 🥲 I'm trying hard to find a job... 
-- 📖 I'm currently reading ***Modern operating system*** and ***Computer Networking: A Top-Down Approach***. As a non computer science student I find it necessary to learn about these.
--->
+- 🥲 Trying hard to find a job... 
 - 📫 How to reach me: saicem@qq.com
 
 <!--
