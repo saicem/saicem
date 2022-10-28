@@ -6,8 +6,8 @@ Want to be a full stack developer. Mainly use C# for back-end program developmen
 
 - 🔭 A Senior at Wuhan University of Technology.
 - 🥲 Trying hard to find a job... 
-- 📫 How to reach me: saicem@qq.com
+- 📫 How to reach me: - Email: [saicem@foxmail.com](mailto:saicem@foxmail.com)
 
 ## Github Stats
 
-![Saicem's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=saicem&hide=cmake,Makefile,shell&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saicem)]
