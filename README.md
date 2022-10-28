@@ -10,4 +10,4 @@ Want to be a full stack developer. Mainly use C# for back-end program developmen
 
 ## Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saicem)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saicem)
