@@ -2,7 +2,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Want to be a full stack developer. Mainly use C# for back-end program development.
+A full stack developer. Mainly use C# for back-end program development.
 
 - 🔭 A Senior at Wuhan University of Technology.
 - 🥲 Trying hard to find a job... 
