@@ -4,7 +4,6 @@
 A full stack developer. Mainly use C# for back-end program development.
 
 - 🔭 A Senior at Wuhan University of Technology.
-- 🥲 Trying hard to find a job... 
 - 📫 How to reach me: [saicem@foxmail.com](mailto:saicem@foxmail.com)
 
 **Languages and Tools:** 
