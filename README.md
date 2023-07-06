@@ -3,7 +3,6 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 A full stack developer. Mainly use C# for back-end program development.
 
-- 🔭 A Senior at Wuhan University of Technology.
 - 📫 How to reach me: [saicem@foxmail.com](mailto:saicem@foxmail.com)
 
 **Languages and Tools:** 
