@@ -7,7 +7,6 @@ A full stack developer. Mainly use C# for back-end program development.
 
 **Languages and Tools:** 
 <p>
-<img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats-saicem.vercel.app/api?username=saicem&show_icons=true&hide_border=true" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
