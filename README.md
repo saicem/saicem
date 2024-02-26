@@ -1,3 +1,3 @@
-# Hi there 👋 I'm [Saicem](https://saicem.github.io).
+# Hi there 👋 I'm Saicem.
 
-A full stack developer. Mainly use C# for back-end program development.
+A full stack developer.
